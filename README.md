@@ -11,5 +11,6 @@ Nota: Para poder acceder a la vista se necesitará registrar e iniciar a la apli
 npm install
 
 ##Migrar tablas
+
 php artisan migrate
 
